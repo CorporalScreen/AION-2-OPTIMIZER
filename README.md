@@ -1,4 +1,4 @@
-# AION 2 Optimizer
+#🚀 AION 2 Optimizer
 
 A Windows optimization utility designed for AION 2 players. Configure system settings, manage game process priority, monitor hardware information, and access NVIDIA recommendations — all from one simple interface.
 
