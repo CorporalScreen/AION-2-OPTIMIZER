@@ -44,7 +44,7 @@ Main interface sections include:
 - **Game Settings** — Manage the AION 2 process priority.
 - **NVIDIA Options** — Open NVIDIA Control Panel and review graphics recommendations.
 
-*Application screenshots will be added here.*
+![AION 2 Optimizer Dashboard](./dashboard.png)
 
 ---
 
@@ -116,29 +116,4 @@ Yes. Windows 10 and Windows 11 are supported targets.
 </details>
 
 <details>
-<summary><strong>Do I need an NVIDIA GPU?</strong></summary>
-
-No. NVIDIA-specific features are intended for systems with compatible NVIDIA graphics cards. Other system information and Windows options are separate.
-
-</details>
-
----
-
-## 💻 System Requirements
-
-| Component | Requirement |
-|---|---|
-| Operating System | Windows 10 / Windows 11 |
-| Architecture | 64-bit Windows |
-| Processor | Windows-compatible CPU |
-| Memory | Depends on system and game requirements |
-| Graphics | NVIDIA GPU required only for NVIDIA-specific features |
-| Permissions | Administrator permissions may be required for certain system settings |
-
----
-
-<p align="center">
-  <strong>AION 2 Optimizer</strong>
-  <br>
-  System configuration made simple.
-</p>
+<summary><strong>Do I need an NVIDIA GPU?</strong></
