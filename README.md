@@ -1,4 +1,4 @@
-<p align="center">
+ <p align="center">
   <img src="./dashboard.png" alt="AION 2 Optimizer Dashboard" width="800">
 </p>
 
@@ -161,57 +161,90 @@ This type of detection can sometimes be a heuristic false positive associated wi
 
 ### General Questions
 
-**Q: What is AION 2 Optimizer?**
+<details>
+<summary><b>Q: What is AION 2 Optimizer?</b></summary>
 
 A: It is a Windows optimization utility designed to help AION 2 players improve system configuration and gaming performance.
 
-**Q: Is this application free?**
+</details>
+
+<details>
+<summary><b>Q: Is this application free?</b></summary>
 
 A: Yes! AION 2 Optimizer is completely free to download and use.
 
-**Q: Which Windows versions are supported?**
+</details>
+
+<details>
+<summary><b>Q: Which Windows versions are supported?</b></summary>
 
 A: Windows 10 and Windows 11 (64-bit).
 
+</details>
+
 ### Performance Questions
 
-**Q: Will this application increase my FPS?**
+<details>
+<summary><b>Q: Will this application increase my FPS?</b></summary>
 
 A: AION 2 Optimizer is designed to help improve FPS and gaming performance by optimizing selected Windows settings, power management, and game process priority. Actual results depend on your hardware and system configuration.
 
-**Q: Does it optimize my GPU automatically?**
+</details>
+
+<details>
+<summary><b>Q: Does it optimize my GPU automatically?</b></summary>
 
 A: No. The application provides NVIDIA detection and access to NVIDIA Control Panel rather than automatically overclocking or modifying GPU settings.
 
-**Q: Can I restore my previous Windows power plan?**
+</details>
+
+<details>
+<summary><b>Q: Can I restore my previous Windows power plan?</b></summary>
 
 A: Yes. The application includes an option to save and restore your previous power plan.
 
+</details>
+
 ### Installation Questions
 
-**Q: Why do I need to run the application as administrator?**
+<details>
+<summary><b>Q: Why do I need to run the application as administrator?</b></summary>
 
 A: Certain Windows system settings require elevated permissions.
 
-**Q: What is the archive password?**
+</details>
+
+<details>
+<summary><b>Q: What is the archive password?</b></summary>
 
 A: `8799554548`
 
-**Q: Should I close AION 2 before using the optimizer?**
+</details>
+
+<details>
+<summary><b>Q: Should I close AION 2 before using the optimizer?</b></summary>
 
 A: Yes. It is recommended to close the game completely before applying system configuration changes.
 
+</details>
+
 ### 📦 Why Is the Application Only 1.6 MB?
 
-**Q: Why is the AION 2 Optimizer file so small? Is it safe?**
+<details>
+<summary><b>Q: Why is the AION 2 Optimizer file so small? Is it safe?</b></summary>
 
 A: AION 2 Optimizer is designed to be a compact utility focused on specific Windows optimization features. It does not need to include large game files or unnecessary resources, which helps keep its distribution size small.
 
 A file size of 1.6 MB is not unusual for a lightweight Windows utility.
 
-**Q: Does the small file size mean something is missing?**
+</details>
+
+<details>
+<summary><b>Q: Does the small file size mean something is missing?</b></summary>
 
 A: Not necessarily. The application includes the functionality provided by its current release. Its compact size is part of its lightweight design.
+
+</details>
 
 ## ⚙️ Technical Information
 
